@@ -94,9 +94,7 @@ class _FarmMonitorState extends State<FarmMonitor> {
                       title: Text('Drone Control'),
                       trailing: IconButton(
                         icon: Icon(Icons.power_settings_new),
-                        onPressed: () {
-                          // Code to control drones
-                        },
+                        onPressed: () {},
                       ),
                     ),
                   ),
@@ -105,9 +103,7 @@ class _FarmMonitorState extends State<FarmMonitor> {
                       title: Text('Irrigation Control'),
                       trailing: IconButton(
                         icon: Icon(Icons.power_settings_new),
-                        onPressed: () {
-                          // Code to control irrigation systems
-                        },
+                        onPressed: () {},
                       ),
                     ),
                   ),
@@ -116,9 +112,7 @@ class _FarmMonitorState extends State<FarmMonitor> {
                       title: Text('Harvest Control'),
                       trailing: IconButton(
                         icon: Icon(Icons.power_settings_new),
-                        onPressed: () {
-                          // Code to control harvest machinery
-                        },
+                        onPressed: () {},
                       ),
                     ),
                   ),
